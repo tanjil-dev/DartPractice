@@ -34,4 +34,18 @@ void main() {
   }
   fruits.map((item)=>print(item)).toList();
   fruits.forEach((item)=>print(item));
+
+  Map student = {
+    'name': 'Alice',
+    'age': 20,
+    'grade': 'A'
+  };
+  print(student['name']);
+  print(student['grade']);
+  student['age'] = 21;
+  student['grade'] = 'A+';
+  student['school'] = 'Greenwood High';
+  student.forEach((a, b){
+    print('Key: $a & Value: $b');
+  });
 }
