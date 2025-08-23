@@ -12,4 +12,7 @@ void main(){
   student.forEach((a, b){
     print('Key: $a & Value: $b');
   });
+  for(var a in student.keys){
+    print('Key: $a & Value: ${student[a]}');
+  }
 }
