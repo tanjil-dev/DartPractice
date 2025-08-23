@@ -1,0 +1,48 @@
+1. What is Dart
+2. Tools
+    - Dart Install (https://gekorm.com/dart-windows/)
+    - Dart Install (brew tap dart-lang/dart) (brew install dart)
+    - Intellij idea (https://www.jetbrains.com/idea/download/) (IntelliJ IDEA Community Edition)
+    - Open Intellij idea & Install dart plugin
+
+3. Create New Dart Project     
+
+4. Dart Project File Folder Defination    bin/......dart
+5. Write Your First Code 
+        - Dart Main Function
+        - Why Intellij idea
+        - Code Write 
+
+6. Run Your First Code 
+        - Click Run
+        - Click Debug
+
+7.  // Single Line Comments
+8.  /*.......*/ Multi Line Comments
+
+9. What is Variable -> Data
+
+10. Variable/Data Types
+        - int (পূর্ণ সংখ্যা)
+        - double (দশমিক সংখ্যা)
+        - String (স্ট্রিং)
+        - List (তালিকা)
+        - Map (ম্যাপ/বিষয়/বস্তু/বর্ননা)
+        - Boolean (সত্য/মিথ্যা / হা / না )
+
+11. Type Inference
+        - Auto Data Type using "var" keyword
+
+
+12. Constant Variable
+        - Value is not changeable
+        - Works on compile time
+
+13. Final Variable
+        - Value is not changeable
+        - Works on run time
+
+14. Arithmatic Operator
+    +,-,/,*,%
+
+
