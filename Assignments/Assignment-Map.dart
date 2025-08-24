@@ -15,4 +15,7 @@ void main(){
   for(var a in student.keys){
     print('Key: $a & Value: ${student[a]}');
   }
+  for(var a in student.entries){
+    print('Key: ${a.key} & Value: ${a.value}');
+  }
 }
