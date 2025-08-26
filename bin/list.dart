@@ -48,4 +48,5 @@ void main() {
   student.forEach((a, b){
     print('Key: $a & Value: $b');
   });
+print(fruits.reversed);
 }
